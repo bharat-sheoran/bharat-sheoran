@@ -1,35 +1,25 @@
-# Hi there! I'm Bharat Sheoran 🚀
+# Hi there! I'm Bharat Sheoran 🚀  
 
-Welcome to my GitHub profile! I'm a developer and technology enthusiast with a knack for creating innovative products. Here, you'll find a collection of my projects, ranging from web development and data science to open-source contributions and experimental coding endeavors.
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves turning ideas into innovative products. My GitHub is a reflection of my journey in crafting impactful solutions and exploring cutting-edge technologies.  
 
-## 🌟 What I Do
-- **Web Development**: Crafting responsive and dynamic web applications using modern frameworks Like React, NextJs, NodeJs, ExpressJs, Mongo.
-- **Data Science**: Analyzing data and building predictive models to unlock insights.
-- **Open Source**: Contributing to and collaborating on open-source projects to drive community growth.
-- **Experimentation**: Exploring new technologies and pushing the boundaries of what's possible.
+## 🌟 What I Do  
+- **Web Development**: Building responsive and dynamic web applications with modern frameworks like React, Next.js, Node.js, Express.js, and MongoDB.  
+- **Android Development**: Developing sleek, user-friendly apps using Kotlin and Jetpack Compose.
+- **Tech Experiments**: Exploring emerging technologies and pushing the boundaries of what's possible.  
 
-## 🛠️ Tech Stack
-- **Languages**: Java, Javascript, Typescript, Python, C++, HTML, CSS
-- **Frameworks**: React, NextJs, React Native, NodeJs, ExpressJs, MongoDB, Tailwind
-- **Tools**: Git, Github, Docker
+## 🛠️ Tech Stack  
+- **Languages**: Java, Kotlin, JavaScript, TypeScript, HTML, CSS, shell scripts  
+- **Frameworks**: React, Next.js, Node.js, Express.js, MongoDB, Postgress, Tailwind CSS, Jetpack Compose 
+- **Tools & Platforms**: Git, GitHub, Docker, Postman, Kubernetes  
+- **Special Skills**: Data Structures & Algorithms (DSA), MVC & MVVC Architecture, Problem-Solving  
 
-## 🌐 Connect with Me
-- **LinkedIn**: [Bharat Sheoran](https://www.linkedin.com/in/bharat-sheoran/)
-- **Finnlet**: [Finnlet](https://finnlet.com/)
+## 🚀 Current Focus  
+- **Building Dynamic Projects**: Focusing on creating robust Software like Finnlet (Launching Soon).  
+- **Learning & Experimenting**: Diving deeper into advanced backend systems and Cloud Deployments.  
+- **Collaborating**: Engaging with fellow developers on exciting projects.  
 
-I'm always open to collaboration and eager to learn new things. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hi!
+## 🌐 Connect with Me  
+- **LinkedIn**: [Bharat Sheoran](https://www.linkedin.com/in/bharat-sheoran/)  
+- **Portfolio**: [Finnlet](https://finnlet.com/)  
 
-<!--
-**bharat-sheoran/bharat-sheoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to collaborate, learn, and grow. Feel free to explore my repositories, star your favorites, and connect with me. Let's create something amazing together! 🚀  
