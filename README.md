@@ -20,6 +20,5 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 ## 🌐 Connect with Me  
 - **LinkedIn**: [Bharat Sheoran](https://www.linkedin.com/in/bharat-sheoran/)  
-- **Portfolio**: [Finnlet](https://finnlet.com/)  
 
 I'm always eager to collaborate, learn, and grow. Feel free to explore my repositories, star your favorites, and connect with me. Let's create something amazing together! 🚀  
